@@ -1,4 +1,4 @@
-# EV_Data_Analysis_-_Recommendation_System
+# EV_Data_Analysis_and_Recommendation_System
 
 This project involves analyzing electric vehicle (EV) data to uncover insights and support consumer decision-making. Key components include:
 
