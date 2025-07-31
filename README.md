@@ -1,11 +1,15 @@
 # EV_Data_Analysis_and_Recommendation_System
 
-This project involves analyzing electric vehicle (EV) data to uncover insights and support consumer decision-making. Key components include:
+This project presents a comprehensive analysis of electric vehicle (EV) data using Python, aimed at uncovering insights and building a user-friendly recommendation tool. Key tasks include:
 
-1. Analyzing EV range, battery capacity, and performance metrics to identify trends and insights
+1. Filtering EVs based on budget and range criteria to support practical decision-making
 
-2. Conducting hypothesis testing to compare brand performance and validate assumptions
+2. Grouping data by manufacturer and calculating average battery capacities for benchmarking
 
-3. Developing a Python-based recommendation system that suggests EV options based on user inputs such as budget, desired range, and battery capacity
+3. Visualizing relationships between battery capacity and range, and identifying outliers in energy consumption
 
-The project combines data analysis and practical application to help users make informed EV purchase decisions.
+4. Conducting hypothesis testing to compare engine power between Tesla and Audi, revealing brand performance differences
+
+5. Developing a Python-based EV recommendation system that suggests suitable models based on user inputs (budget, range, and battery)
+
+This project combines data analysis, statistical testing, and applied machine learning to enhance EV selection strategies and market understanding.
